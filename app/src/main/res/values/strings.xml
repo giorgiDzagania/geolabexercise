@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">GeoLabMiniGrocery</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="hello">Hello</string>
+    <string name="field_must_not_be_empty">Field must not be empty.</string>
+    <string name="password_at_lease_8_char">Password must be at least 8 characters.</string>
+    <string name="fender_telecaster" translatable="false">Fender Telecaster</string>
+    <string name="count_cant_be_negative_number">Count cant be negative number</string>
+    <string name="order_now">Order now</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_an_account">შექმენი ანგარიში</string>
+    <string name="username">მომხმარებლის სახელი</string>
+    <string name="password">პაროლი</string>
+    <string name="create_account">შექმნა</string>
+    <string name="hello">გამარჯობა</string>
+    <string name="field_must_not_be_empty">შესავსები ველი არ უნდა იყოს ცარიელი.</string>
+    <string name="password_at_lease_8_char">პაროლი უნდა შედგებოდეს მინიმუმ 8 სიმბოლოსგან.</string>
+    <string name="count_cant_be_negative_number">რაოდენობა არ შეიძლება იყოს უარყოფითი რიცხვი</string>
+    <string name="order_now">შეუკვეთე ახლავე</string>
+</resources>
